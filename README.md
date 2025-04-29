@@ -1,1 +1,1 @@
-Projeto feito em React.js que exibe contagem regressiva para um determinado evento que o usuário configura na página inicial. A contagem regressiva mostra os dias que faltam para o evento, além das horas, minutos e segundos.
+
